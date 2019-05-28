@@ -11,3 +11,5 @@
  [MircoPython-button](https://github.com/aJantes/MircoPython-button)
 
 ---
+
+[MircoPython-uart](https://github.com/aJantes/MircoPython-uart)
