@@ -2,19 +2,19 @@
 
 ## bpi:bit
 
-> LED 
- [MircoPython-led](https://github.com/aJantes/MircoPython-led)
+> LED 显示
+ [MircoPython_led](https://github.com/aJantes/MircoPython_led)
 
 
 > IO 控制
- [MircoPython-IO](https://github.com/aJantes/MircoPython-IO)
+ [MircoPython_IO](https://github.com/aJantes/MircoPython_IO)
 
 
 > 按键控制
- [MircoPython-button](https://github.com/aJantes/MircoPython-button)
+ [MircoPython_button](https://github.com/aJantes/MircoPython_button)
 
 
 > 串口通行
-[MircoPython-uart](https://github.com/aJantes/MircoPython-uart)
+[MircoPython_uart](https://github.com/aJantes/MircoPython_uart)
 
 ----
